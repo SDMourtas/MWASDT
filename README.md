@@ -4,7 +4,7 @@ The purpose of this package is to present applications on the Gross Domestic Pro
 Additionally, all GDP datasets were retrieved from FRED at https://fred.stlouisfed.org/
 
 The main article used is the following:
-*	S.D.Mourtas, E.Drakonakis and Z.Bragoudakis, "Forecasting the Gross Domestic Product using a weight direct determination neural network", (submitted)
+*	S.D.Mourtas, E.Drakonakis and Z.Bragoudakis, "Forecasting the Gross Domestic Product using a weight direct determination neural network", AIMS Mathematics, 8(10), 24254-24273, 2023
 
 
 # M-files Description
