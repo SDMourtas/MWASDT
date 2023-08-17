@@ -13,7 +13,7 @@
 %   Main paper: S.D.Mourtas, E. Drakonakis and Z. Bragoudakis,      %
 %               "Forecasting the Gross Domestic Product using a     %
 %               weight direct determination neural network",        %
-%               (submitted)                                         %
+%               AIMS Mathematics, 8(10), 24254-24273, 2023          %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
