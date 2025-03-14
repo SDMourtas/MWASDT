@@ -6,7 +6,7 @@ R=(X-Y)./Y; Z=length(R);
 [row,col]=find(isinf(R)); R(row,col)=0;
 
 yh=mean(Y); % test
-SStot=sum((X-yh).^2);
+SStot=sum((Y-yh).^2);
 SSres=sum((X-Y).^2);
 E(1)=1-SSres/SStot; % R^2
 fprintf('The R-squared is: %f \n',E(1))
